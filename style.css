@@ -1,0 +1,27 @@
+.iconcolor {
+    color: #F53838;
+}
+.iconcolorg {
+    color: #2FAB73;
+}
+.butcolor {
+    background-color: #F53838;
+    color: white;
+}
+.decorations {
+    list-style-type: none;
+}
+
+@media (max-width: 770px) {
+    .container1 {
+        flex-direction: column;
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+    .incresew {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+}
